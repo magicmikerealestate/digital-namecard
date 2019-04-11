@@ -7,7 +7,7 @@ ORG:Real  Estate;
 TITLE:Real Estate Investor Broker
 EMAIL;type=INTERNET;type=WORK;type=pref:info@MagicMikeRealEstate.com
 TEL;type=WORK;type=VOICE:+1 206 430 1717
-TEL;type=WORK;type=VOICE:+1 206 258 7898
+TEL;type=HOME;type=VOICE:+1 206 258 7898
 item1.ADR;type=WORK;type=pref:;;100 Andover Park Wes\nSTE 150-185\, Tukwila;;;WA 98188;Washington
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.magicmikerealestate.com/
