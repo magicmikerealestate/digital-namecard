@@ -10,7 +10,7 @@ TEL;type=WORK;type=VOICE:+1 206 430 1717
 TEL;type=WORK;type=VOICE:+1 206 258 7898
 item1.ADR;type=WORK;type=pref:;;100 Andover Park Wes\nSTE 150-185\, Tukwila;;;WA 98188;Washington
 item1.X-ABADR:sg
-item2.URL;type=pref:magicmikerealestate.com
+item2.URL;type=pref:https://www.magicmikerealestate.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 item3.URL;type=pref:https://www.facebook.com/MagicMikeRealEstate/
 item3.X-ABLabel:_$!<HomePage>!$_
