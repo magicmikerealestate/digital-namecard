@@ -11,4 +11,6 @@ item1.ADR;type=WORK;type=pref:;;100 Andover Park Wes\nSTE 150-185\, Tukwila;;;WA
 item1.X-ABADR:sg
 item2.URL;type=pref:magicmikerealestate.com
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:https://www.facebook.com/MagicMikeRealEstate/
+item3.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
