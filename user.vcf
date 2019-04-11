@@ -7,10 +7,23 @@ ORG:Real  Estate;
 TITLE:Real Estate Investor Broker
 EMAIL;type=INTERNET;type=WORK;type=pref:info@MagicMikeRealEstate.com
 TEL;type=WORK;type=VOICE:+1 206 430 1717
+TEL;type=WORK;type=VOICE:+1 206 258 7898
 item1.ADR;type=WORK;type=pref:;;100 Andover Park Wes\nSTE 150-185\, Tukwila;;;WA 98188;Washington
 item1.X-ABADR:sg
 item2.URL;type=pref:magicmikerealestate.com
 item2.X-ABLabel:_$!<HomePage>!$_
 item3.URL;type=pref:https://www.facebook.com/MagicMikeRealEstate/
 item3.X-ABLabel:_$!<HomePage>!$_
+item4.URL;type=pref:https://www.instagram.com/magic_mike_real_estate/
+item4.X-ABLabel:_$!<HomePage>!$_
+item5.URL;type=pref:https://www.yelp.com/biz/magic-mike-real-estate-tukwila/
+item5.X-ABLabel:_$!<HomePage>!$_
+item6.URL;type=pref:https://www.linkedin.com/in/mike-rudnev-b5828287/
+item6.X-ABLabel:_$!<HomePage>!$_
+item7.URL;type=pref:https://join.skype.com/invite/t4gb70VG7hSn/
+item7.X-ABLabel:_$!<HomePage>!$_
+item8.URL;type=pref:https://www.pinterest.com/MagicMikeRealEstate/
+item8.X-ABLabel:_$!<HomePage>!$_
+item9.URL;type=pref:https://goo.gl/maps/haVsjrEtzUL2/
+item9.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
